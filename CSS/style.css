@@ -1,0 +1,57 @@
+*{
+    padding-left: 0vw;
+    background-color: 		#D8BFD8;
+}
+input{
+
+margin-left: 38%;
+}
+h2{
+    text-align: center;
+    color: 		#4B0082;
+    font-size: 16px;
+}
+h1{
+    text-align: center;
+    font-size: 20px;
+    color: 		#4B0082;
+    
+}
+textarea{
+    text-align: center;
+    width:  30vw;
+    height: 3vw;
+    margin-left: 35%;
+    background-color: aliceblue;
+    box-shadow: 9px 7px 5px #BA55D3;
+    border: solid 4px 		#9400D3;
+    border-radius: 15px;
+    font-size: 20px;
+}
+
+button{
+    margin-top: 2vw;
+    margin-left: 48%;
+    text-align: center;
+    border: 3px solid 		#9400D3;
+    box-shadow: 9px 7px 5px 	#BA55D3;
+    width: 6vw;
+    height: 4vw;
+    border-radius: 10px;
+    font-size: 10px;
+    background-color: aliceblue;
+}
+select{
+    border: 3px solid #9400D3;
+    border-radius: 5px;
+    width: 6vw;
+    height: 2.5vw;
+    background-color: aliceblue;
+}
+input{
+    border: 3px solid #9400D3;
+    border-radius: 5px;
+    width: 18vw;
+    height: 2vw;
+    background-color: aliceblue;
+}
